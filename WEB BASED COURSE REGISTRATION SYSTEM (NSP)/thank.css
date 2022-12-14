@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    
+    background-image:url("img/cloud.jpg");
+    
+
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+}
+.center p{
+    margin-left:40%;
+    font-size:500%;
+    margin-top: 20%;
+    color:aqua;
+}
